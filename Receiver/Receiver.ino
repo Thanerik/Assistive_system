@@ -24,7 +24,7 @@ char pass[] = SECRET_PASS;
 char server[] = "maker.ifttt.com"; // The IFTTT server
 int port = 80;
 
-String IFTTT_Key = "KLCK70CKIzbPuOVghu-6L";
+String IFTTT_Key = SECTRET_IFTTT;
 String IFTTT_Event = "alert";
 
 WiFiClient wifi;
